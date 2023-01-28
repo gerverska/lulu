@@ -1,4 +1,4 @@
-# Forked from @tobiasgf on 2022-01-26
+# Forked from ```tobiasgf/lulu``` on 2022-01-26
 
 What follows is the original README:
 ___
