@@ -1,7 +1,3 @@
-# Forked from ```tobiasgf/lulu``` on 2022-01-26
-
-What follows is the original README:
-___
 # LULU
 ___
 A r-package for distribution based post clustering curation of amplicon data.
